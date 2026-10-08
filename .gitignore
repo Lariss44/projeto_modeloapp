@@ -1,0 +1,6 @@
+/modeloapp/__pycache__/*
+/apps/core/__pycache__/*
+/apps/categories/__pycache__/*
+/apps/categories/migrations/*
+/apps/products/__pycache__/*
+/apps/categories/migrations/*
